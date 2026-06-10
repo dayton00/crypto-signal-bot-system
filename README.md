@@ -5,7 +5,7 @@ An advanced cryptocurrency scalping signal system designed to generate multi-tim
 
 ## Signal Example
 
-![Signal Example](signals.png)
+![Signal Example](scalping.png)
 
 ## Features
 
