@@ -1,4 +1,5 @@
 # Crypto Signal Bot System
+ ...no api needed just php version 8.4+
 
 An advanced cryptocurrency scalping signal system designed to generate multi-timeframe trading opportunities for various digital assets.
 
